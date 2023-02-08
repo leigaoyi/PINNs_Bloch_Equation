@@ -1,0 +1,1 @@
+# PINNs_Bloch_Equation
