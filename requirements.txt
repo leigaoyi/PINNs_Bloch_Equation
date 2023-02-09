@@ -1,0 +1,12 @@
+matplotlib
+numpy
+scikit-learn
+scikit-optimize
+scipy
+deepxde
+pandas
+jupyter
+tqdm
+torchvision==0.11.3 
+torch == 1.10.0
+tensorflow

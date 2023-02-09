@@ -1,0 +1,12 @@
+ConfigDate: 2022-07-15
+CSVPath: './result/TrainResult0715.csv'
+
+
+NetDepth: [4]
+NetWidth: [120]
+sample_num: 400 
+TrainEpoch : 50000
+
+YZ_dir_path : './result/DoublePump/'
+ModelSaveDir : './model/DoublePump/'
+SaveFile: 'DoublePump_YZ.csv'
