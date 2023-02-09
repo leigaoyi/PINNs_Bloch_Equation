@@ -8,5 +8,5 @@ pandas
 jupyter
 tqdm
 torchvision==0.11.3 
-torch == 1.10.0
+torch == 1.10.2
 tensorflow
