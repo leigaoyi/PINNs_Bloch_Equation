@@ -1,8 +1,6 @@
 ConfigDate: 2022-07-15
 CSVPath: './result/TrainResult0715.csv'
 
-LightIntensity: 25
-Temperature: 170
 
 NetDepth: [4]
 NetWidth: [120]
